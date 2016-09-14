@@ -1,4 +1,5 @@
 # This will ignore all types of files in here.
 
 *.log
-./.idea
+*.xml
+*.iml
